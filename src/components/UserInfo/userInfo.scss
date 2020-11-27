@@ -1,0 +1,23 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto_usuario{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.informacion_usuario{
+    padding-top: 20px;
+}
+
+.informacion_usuario i{
+    font-size: 1rem;
+}
+
+.seguidores{
+    padding-top: 20px;
+}

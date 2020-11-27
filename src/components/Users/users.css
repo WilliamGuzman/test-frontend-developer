@@ -1,0 +1,10 @@
+.site-layout-content {
+    min-height: 280px;
+    padding: 24px;
+    background: #fff;
+
+}
+
+.ant-list-items{
+    width: 100%;   
+}
